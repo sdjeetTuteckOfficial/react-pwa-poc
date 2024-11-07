@@ -51,10 +51,8 @@
     ]
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "cross-env": "^7.0.3"
-=======
+    "cross-env": "^7.0.3",
     "react-app-rewired": "^2.2.1"
->>>>>>> 975e3f2f2f83e49eddbe2e9c9e15ef3b73d4de14
+
   }
 }
